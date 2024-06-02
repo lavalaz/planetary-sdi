@@ -13,7 +13,7 @@ Current Membership Includes:
 - Brent Archinal, USGS Astrogeology Science Center, barchinal@usgs.gov
 - Ross Beyer, SETI Institute and NASA Ames Research Center, rbeyer@seti.org
 - Marc Hunter, USGS Astrogeology Science Center, mahunter@usgs.gov
-- Laz Kestay, USGS Astrogeology Science Center, laz@usgs.gov
+- Laszlo Kestay, USGS Astrogeology Science Center, laz@usgs.gov
 - Noah Petro, Goddard Space Flight Center, noah.e.petro@nasa.gov
 - Julie Stopar, Lunar and Planetary Institute, stopar@lpi.usra.edu
 - Samuel Lawrence, Johnson Space Center, samuel.j.lawrence@nasa.gov
